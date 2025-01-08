@@ -1,4 +1,4 @@
-// frontend/src/pages/index.js
+// frontend/src/pages/index.js 
 
 import { useState } from 'react';
 import Chart from '../components/Chart';
